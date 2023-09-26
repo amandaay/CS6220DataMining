@@ -5,3 +5,6 @@
 Examine @Netflix's Grand Prize Challenge Dataset. 
 https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
+## Assignment 2
+Apriori 
+Association Rule
