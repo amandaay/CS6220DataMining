@@ -8,3 +8,10 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 ## Assignment 2
 - Apriori 
 - Association Rule
+
+## Assignment 3
+- Map Reduction in Spark for People you might know
+
+## Assignment 4
+- Maximum likelihood estimate
+- k-means unsupervised clustering algorithm
