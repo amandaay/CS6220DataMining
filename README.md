@@ -16,3 +16,10 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - Maximum likelihood estimate
 - k-means unsupervised clustering algorithm
 - First Principal Component Analysis (PCA)
+
+## Assignment 5
+- Bayes Theorm
+- Naive Bayes
+- Random Forest
+- Decision Tree Classifier
+- Logistic Regression
