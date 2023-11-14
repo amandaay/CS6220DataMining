@@ -23,3 +23,8 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - Random Forest
 - Decision Tree Classifier
 - Logistic Regression
+
+## Assignment 6
+- ROC
+- Precision
+- Accuracy
