@@ -28,3 +28,7 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - ROC
 - Precision
 - Accuracy
+
+## Assignment 7
+- Cross-Entropy Cost Function
+- Keras
